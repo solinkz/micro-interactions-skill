@@ -59,6 +59,10 @@ You can also invoke it directly:
 /micro-interactions
 ```
 
+## Contributing
+
+Contributions are welcome! Whether it's new interaction patterns, platform coverage (Flutter, .NET MAUI, desktop), improved easing values, or accessibility fixes — see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
 ## License
 
 MIT
